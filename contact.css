@@ -1,0 +1,61 @@
+.rahul{
+    color: whitesmoke;
+    background-color: rgba(243, 151, 98, 0.397);
+    width: 80%;
+    padding: 120px 80px;
+    font-family: helvetica;
+    font-size: 19px;
+}
+body{
+    background-image: url(background/london.jpg);
+    width: 80%;
+    background-color: rgba(245, 245, 245, 0.548);
+    margin: auto;
+    padding: 120px 80px;
+}
+h1{
+    color : whitesmoke;
+    font-family: helvetica;
+    font-size: 20px;
+    margin-bottom: 26px;
+    padding-left: 26px;
+}
+.ig{
+    background-image: url(background/instagram-logo.png);
+    background-repeat: no-repeat;
+    padding-left: 25px !important;
+    background-size: 20px;
+    background-position-y: 3px;
+}
+.line{
+    background-image: url(background/line-logo.png);
+    background-repeat: no-repeat;
+    padding-left: 25px !important;
+    background-size: 20px;
+    background-position-y: 3px;
+}
+.wa{
+    background-image: url(background/whatsapp-logo-variant.png);
+    background-repeat: no-repeat;
+    padding-left: 25px !important;
+    background-size: 20px;
+    background-position-y: 3px;
+}
+.kmbli{
+    font-family: helvetica;
+    color:red;
+    text-align: center;
+    cursor: pointer;
+    color: cornsilk;
+    background: rgb(255, 0, 0);
+    width: 150px;
+    height: 40px;
+    border-radius: 4px;
+    border: none;
+    padding-top: 5px;
+    margin: auto;
+    margin-top: 20px;
+}
+.kmbli:hover{
+    background: rgba(252, 0, 0, 0.651);
+}
